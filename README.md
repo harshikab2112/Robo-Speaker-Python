@@ -1,19 +1,13 @@
 # 🤖 ROBO SPEAKER (Python)
-
 Welcome to **ROBO SPEAKER**, a simple yet powerful Python-based text-to-speech tool built by **Harshika Bansal**. This mini project uses the `pyttsx3` library to convert text input into spoken audio on Windows (also works on macOS/Linux).
 
----
-
 ## 🚀 Features
-
 - 🗣️ Speaks anything you type
 - 💻 Runs offline (no internet required)
 - 🎯 Windows-compatible (also works on macOS/Linux)
 - 🔁 Continuous speech loop
 - 🛑 Type `exit` to stop the program
 - 🧠 Simple, clean, and beginner-friendly code
-
----
 
 ## 📦 Requirements
 
@@ -28,7 +22,7 @@ pip install pyttsx3
 ## 🛠️ How to Run
 - Clone the repository:
 ```
-git clone https://github.com/your-username/robo-speaker-python.git
+git clone https://github.com/yharshikab2112/robo-speaker-python.git
 cd robo-speaker-python
 ```
 - Run the script:
@@ -42,7 +36,7 @@ python robo_speaker.py
 ```
 robo-speaker-python/
 │
-├── robo_speaker.py     # Main Python script
+├── main.py     # Main Python script
 ├── output.png          # output
 ├── README.md           # This file
 ```
