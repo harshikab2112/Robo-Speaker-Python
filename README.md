@@ -27,7 +27,7 @@ cd robo-speaker-python
 ```
 - Run the script:
 ```
-python robo_speaker.py
+python main.py
 ```
 - Type any sentence and press Enter — the speaker will say it aloud.
 - Type exit to stop the program.
